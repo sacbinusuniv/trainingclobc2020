@@ -1,0 +1,65 @@
+.name{
+    font-size: 55px !important;
+    color:#000 !important;
+}
+#f2f > div > div > div > a{
+    width: 100%;
+}
+#f2f > div > div > div{
+    margin-bottom: 10px;
+}
+
+.navbar-custom {
+    background: #CDDC39;
+    font-weight: 700;
+    border: none;
+}
+hr.star-light {
+    border-color: #000;
+}
+hr.star-light:after {
+    background-color: #000;
+    color: #fff;
+}
+header {
+    text-align: center;
+    background: #fff;
+}
+#f2f > div > div:nth-child(1) > div > hr{
+        border-color: #fff !important;
+}
+
+#f2f > div > div:nth-child(1) > div > hr:after{
+        background-color: #CDDC39 !important;
+}
+section.success {
+    background: #CDDC39;
+    color: #fff;
+}
+.text-padding{
+        padding-top: 134px;
+}
+.setting-margin{
+        margin-bottom: 75px;
+}
+@media only screen and (max-device-width: 736px) and (min-device-width: 320px){
+    .text-padding{
+        padding-bottom : 134px;
+        padding-top: 0px;
+    }
+}
+.subs{
+    margin-bottom: 57px;
+    font-size: 20px;
+}
+#self-learning > div.row > div > a{
+        width: 100%;
+    font-size: 42px;
+    
+    color: #000;
+}
+
+.imgF2f{
+    width: 252px;
+    height: 252px;
+}
