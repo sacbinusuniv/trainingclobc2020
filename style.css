@@ -47,6 +47,9 @@ section.success {
         padding-bottom : 134px;
         padding-top: 0px;
     }
+    .rspn{
+	font-size: 20px;
+    }	
 }
 .subs{
     margin-bottom: 57px;
